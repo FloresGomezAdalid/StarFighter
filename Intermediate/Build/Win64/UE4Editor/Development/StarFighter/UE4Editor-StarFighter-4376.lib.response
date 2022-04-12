@@ -1,0 +1,27 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-StarFighter-4376.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Mis documentos\Documents\Unreal Projects\StarFighter\Intermediate\Build\Win64\StarFighterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Mis documentos\Documents\Unreal Projects\StarFighter\Intermediate\Build\Win64\UE4Editor\Development\StarFighter\Asteroide.cpp.obj"
+"C:\Mis documentos\Documents\Unreal Projects\StarFighter\Intermediate\Build\Win64\UE4Editor\Development\StarFighter\Bala.cpp.obj"
+"C:\Mis documentos\Documents\Unreal Projects\StarFighter\Intermediate\Build\Win64\UE4Editor\Development\StarFighter\Enemigo.cpp.obj"
+"C:\Mis documentos\Documents\Unreal Projects\StarFighter\Intermediate\Build\Win64\UE4Editor\Development\StarFighter\Escenario.cpp.obj"
+"C:\Mis documentos\Documents\Unreal Projects\StarFighter\Intermediate\Build\Win64\UE4Editor\Development\StarFighter\Menu.cpp.obj"
+"C:\Mis documentos\Documents\Unreal Projects\StarFighter\Intermediate\Build\Win64\UE4Editor\Development\StarFighter\Nave.cpp.obj"
+"C:\Mis documentos\Documents\Unreal Projects\StarFighter\Intermediate\Build\Win64\UE4Editor\Development\StarFighter\StarFighter.cpp.obj"
+"C:\Mis documentos\Documents\Unreal Projects\StarFighter\Intermediate\Build\Win64\UE4Editor\Development\StarFighter\StarFighterGameModeBase.cpp.obj"
+"C:\Mis documentos\Documents\Unreal Projects\StarFighter\Intermediate\Build\Win64\UE4Editor\Development\StarFighter\Asteroide.gen.cpp.obj"
+"C:\Mis documentos\Documents\Unreal Projects\StarFighter\Intermediate\Build\Win64\UE4Editor\Development\StarFighter\Bala.gen.cpp.obj"
+"C:\Mis documentos\Documents\Unreal Projects\StarFighter\Intermediate\Build\Win64\UE4Editor\Development\StarFighter\Enemigo.gen.cpp.obj"
+"C:\Mis documentos\Documents\Unreal Projects\StarFighter\Intermediate\Build\Win64\UE4Editor\Development\StarFighter\Escenario.gen.cpp.obj"
+"C:\Mis documentos\Documents\Unreal Projects\StarFighter\Intermediate\Build\Win64\UE4Editor\Development\StarFighter\Menu.gen.cpp.obj"
+"C:\Mis documentos\Documents\Unreal Projects\StarFighter\Intermediate\Build\Win64\UE4Editor\Development\StarFighter\Nave.gen.cpp.obj"
+"C:\Mis documentos\Documents\Unreal Projects\StarFighter\Intermediate\Build\Win64\UE4Editor\Development\StarFighter\StarFighter.init.gen.cpp.obj"
+"C:\Mis documentos\Documents\Unreal Projects\StarFighter\Intermediate\Build\Win64\UE4Editor\Development\StarFighter\StarFighterGameModeBase.gen.cpp.obj"
+"C:\Mis documentos\Documents\Unreal Projects\StarFighter\Intermediate\Build\Win64\UE4Editor\Development\StarFighter\Default.rc2.res"
+/OUT:"C:\Mis documentos\Documents\Unreal Projects\StarFighter\Intermediate\Build\Win64\UE4Editor\Development\StarFighter\UE4Editor-StarFighter-4376.lib"

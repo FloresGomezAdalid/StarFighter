@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\StarFighter.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{E57F0F11-4408-4BA5-854C-036DB0181610}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\StarFighter.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\StarFighterEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{68574E8C-A8F2-409B-A2E2-1742A9A5AFD0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\StarFighter">
+      <UniqueIdentifier>{2FC2E2EF-5598-486C-9B70-759A2E5F2949}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\StarFighter\Asteroide.cpp">
+      <Filter>Source\StarFighter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StarFighter\Asteroide.h">
+      <Filter>Source\StarFighter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StarFighter\Bala.cpp">
+      <Filter>Source\StarFighter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StarFighter\Bala.h">
+      <Filter>Source\StarFighter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StarFighter\Camara.cpp">
+      <Filter>Source\StarFighter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StarFighter\Camara.h">
+      <Filter>Source\StarFighter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StarFighter\Enemigo.cpp">
+      <Filter>Source\StarFighter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StarFighter\Enemigo.h">
+      <Filter>Source\StarFighter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StarFighter\Escenario.cpp">
+      <Filter>Source\StarFighter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StarFighter\Escenario.h">
+      <Filter>Source\StarFighter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StarFighter\Menu.cpp">
+      <Filter>Source\StarFighter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StarFighter\Menu.h">
+      <Filter>Source\StarFighter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StarFighter\Nave.cpp">
+      <Filter>Source\StarFighter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StarFighter\Nave.h">
+      <Filter>Source\StarFighter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StarFighter\Potenciador.cpp">
+      <Filter>Source\StarFighter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StarFighter\Potenciador.h">
+      <Filter>Source\StarFighter</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\StarFighter\StarFighter.Build.cs">
+      <Filter>Source\StarFighter</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\StarFighter\StarFighter.cpp">
+      <Filter>Source\StarFighter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StarFighter\StarFighter.h">
+      <Filter>Source\StarFighter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StarFighter\StarFighterGameModeBase.cpp">
+      <Filter>Source\StarFighter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StarFighter\StarFighterGameModeBase.h">
+      <Filter>Source\StarFighter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StarFighter\Temporizador.cpp">
+      <Filter>Source\StarFighter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StarFighter\Temporizador.h">
+      <Filter>Source\StarFighter</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
